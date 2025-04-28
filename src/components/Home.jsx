@@ -34,6 +34,7 @@ function Home() {
     { title: "Kenny", description: "Personaje de South Park", image: "/kenny.jpeg?height=200&width=300" },
     { title: "BTS", description: "Personajes de BTS", image: "/bts.jpeg?height=200&width=300" },
     { title: "Dogpool", description: "El perrito de Deadpool & Wolverine", image: "/dogpool.jpeg?height=200&width=300" },
+    { title: "Gatito", description: "Gatito con corazón", image: "/gatito-corazon.jpeg?height=200&width=300" },
     { title: "Escandalosos", description: "Osos escandalosos: Panda, Polar y Pardo", image: "/escandalosos.jpeg?height=200&width=300" },
     { title: "Gatitos", description: "Laveros de Gatitos", image: "/gatos.jpeg?height=200&width=300" },
     { title: "Pochita", description: "Llaveros de pochita", image: "/pochita.jpeg?height=200&width=300" },
